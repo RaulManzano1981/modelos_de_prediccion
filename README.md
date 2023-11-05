@@ -1,7 +1,7 @@
 # modelos_de_prediccion
 Una cadena de gimnasios esta intentando interactuar con sus usuarios a través de datos analiticos.
 
-Con estos datos recabados de los usarios se analizarán y se determinaran que factores son los más determinantes que influyen en que el usuario se vaya del gimnasio. Esto se realizará utilizando modelos de predicción RandomForest y Regresion Logistica.
+Con estos datos recabados de los usarios se analizarán y se determinaran que factores son los más determinantes que influyen en que el usuario se vaya del gimnasio. Esto se realizará utilizando modelos de predicción RandomForest y Regresión Logística.
 
 Es dataset utilizado es:
 #### gym_data = pd.read_csv('/datasets/gym_churn_us.csv')
